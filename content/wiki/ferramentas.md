@@ -19,7 +19,7 @@ Estas são as ferramentas oficiais do time. Se você está usando algo fora dess
 ### Figma
 **Uso:** Interface design, prototipação, handoff, Design System  
 **Acesso:** Peça ao ti@rededor.com.br com seu email corporativo  
-**Plano:** Professional (organização Rede D'Or)
+**Plano:** Professional
 
 O Figma é onde tudo acontece. Toda interface deve nascer aqui. Não use Adobe XD, Sketch ou ferramentas pessoais para entregáveis do time.
 
@@ -79,7 +79,7 @@ Usado em produtos já em produção para análise comportamental. Dados sensíve
 ### Notion
 **Uso:** Documentação, decisões de design, reuniões, wiki da equipe  
 **Acesso:** Convite por email corporativo  
-**Workspace:** Rede D'Or · Design
+**Workspace:** Design
 
 O Notion é o cérebro operacional do time. Tudo que não é entregável visual vive aqui: briefs, atas, retrospectivas, OKRs, 1:1s.
 

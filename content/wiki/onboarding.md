@@ -10,7 +10,7 @@ published: true
 
 # Onboarding
 
-Bem-vindo ao time de Design da Rede D'Or. Esta página é o seu ponto de partida. Siga o checklist abaixo nas primeiras semanas e você vai se situar bem mais rápido.
+Bem-vindo ao time de Design. Esta página é o seu ponto de partida. Siga o checklist abaixo nas primeiras semanas e você vai se situar bem mais rápido.
 
 ---
 
@@ -20,7 +20,7 @@ Bem-vindo ao time de Design da Rede D'Or. Esta página é o seu ponto de partida
 
 Abra um ticket em `Jira > TI > Solicitações > Acesso a Ferramenta` para cada item:
 
-- [ ] Figma (organização Rede D'Or)
+- [ ] Figma (organização)
 - [ ] Notion (workspace Design)
 - [ ] Slack (canais de design)
 - [ ] Jira (squads de produto)

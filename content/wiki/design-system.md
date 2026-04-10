@@ -10,7 +10,7 @@ published: true
 
 # Design System
 
-O Design System da Rede D'Or — internamente chamado de **DS-RD** — é a fonte única de verdade para componentes, tokens e padrões de interface de todos os produtos digitais do grupo.
+O Design System — internamente chamado de **DS-RD** — é a fonte única de verdade para componentes, tokens e padrões de interface de todos os produtos digitais do grupo.
 
 ---
 

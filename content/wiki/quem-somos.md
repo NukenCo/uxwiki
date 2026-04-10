@@ -10,7 +10,7 @@ published: true
 
 # Quem Somos
 
-O time de Design da Rede D'Or é responsável pela experiência de pacientes, médicos, familiares e colaboradores em todos os pontos de contato digitais e físicos do grupo.
+O time de Design é responsável pela experiência de pacientes, médicos, familiares e colaboradores em todos os pontos de contato digitais e físicos do grupo.
 
 Somos uma equipe multidisciplinar formada por designers de produto, pesquisadores de UX, redatores e coordenadores de design — todos comprometidos em tornar a saúde mais humana, acessível e eficiente.
 
@@ -32,7 +32,7 @@ Responsável pelas plataformas e apps para pacientes e médicos. Trabalha em par
 
 ### Design de Sistemas
 
-Responsável pelo Design System da Rede D'Or — a base visual e de componentes que unifica toda a experiência digital.
+Responsável pelo Design System — a base visual e de componentes que unifica toda a experiência digital.
 
 **Foco:** Componentes, tokens, documentação, governança.
 

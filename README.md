@@ -1,6 +1,6 @@
-# UX Wiki — Rede D'Or
+# UX Wiki
 
-Wiki interna da equipe de design da Rede D'Or. Construída com Next.js 14, App Router e Tailwind CSS. Hospedada na Vercel.
+Wiki interna da equipe de design. Construída com Next.js 14, App Router e Tailwind CSS. Hospedada na Vercel.
 
 ---
 
