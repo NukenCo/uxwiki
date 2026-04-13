@@ -63,7 +63,7 @@ function LoginForm() {
             marginBottom: '0.75rem',
           }}
         >
-          Rede D&apos;Or · Design Team
+          Design Team
         </p>
         <h1
           style={{
